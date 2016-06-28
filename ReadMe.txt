@@ -1,30 +1,36 @@
-Responsive HTML5 website template for developers
+Astral by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Theme name:
-=======================================================================
-Developer
 
-Theme version:
-=======================================================================
-v1.5
+First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated
+interface (with noscript fallbacks), and styling for all basic page elements (including
+blockquotes, tables and lists). Enjoy!
 
-Release Date:
-=======================================================================
-07 Jan 2016
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+(* = Not included)
 
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+AJ
+aj@lkn.io | @ajlkn
 
-If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)v
+		background-size polyfill (github.com/louisremi)
+		Repond.js (j.mp/respondjs)
+		Skel (skel.io)
